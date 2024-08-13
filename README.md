@@ -2,6 +2,7 @@
 # NYTimes
 
 An application to view all latest atricles in the city of NewYork with the publisher name and published dates.
+Navigation to details of article upon selecting a particular article.
 
 
 
