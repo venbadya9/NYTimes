@@ -1,0 +1,1291 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2024 The New York Times Company.  All Rights Reserved.",
+  "num_results": 20,
+  "results": [
+    {
+      "uri": "nyt://article/70d3e1b2-0aa3-5853-89fe-d1f530458c46",
+      "url": "https://www.nytimes.com/2024/08/09/opinion/trump-vance-harris-walz-weird.html",
+      "id": 100000009620691,
+      "asset_id": 100000009620691,
+      "source": "New York Times",
+      "published_date": "2024-08-09",
+      "updated": "2024-08-10 15:43:39",
+      "section": "Opinion",
+      "subsection": "",
+      "nytdsection": "opinion",
+      "adx_keywords": "Conservatism (US Politics);Right-Wing Extremism and Alt-Right;Presidential Election of 2024;United States Politics and Government;Polls and Public Opinion;Trump, Donald J;Vance, J D;Harris, Kamala D;Walz, Tim;Republican Party;Democratic Party",
+      "column": null,
+      "byline": "By Jamelle Bouie",
+      "type": "Article",
+      "title": "The Real Reason Trump and Vance Hate Being Called ‘Weird’",
+      "abstract": "It reminds voters how far out of the mainstream Republicans have gotten.",
+      "des_facet": [
+        "Conservatism (US Politics)",
+        "Right-Wing Extremism and Alt-Right",
+        "Presidential Election of 2024",
+        "United States Politics and Government",
+        "Polls and Public Opinion"
+      ],
+      "org_facet": [
+        "Republican Party",
+        "Democratic Party"
+      ],
+      "per_facet": [
+        "Trump, Donald J",
+        "Vance, J D",
+        "Harris, Kamala D",
+        "Walz, Tim"
+      ],
+      "geo_facet": [
+        
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Thalassa Raasch for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2024/08/09/multimedia/09bouie-mzwc/09bouie-mzwc-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/08/09/multimedia/09bouie-mzwc/09bouie-mzwc-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/08/09/multimedia/09bouie-mzwc/09bouie-mzwc-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/aea72406-c2d7-5e1f-af8a-ad2f1eea017b",
+      "url": "https://www.nytimes.com/2024/08/01/us/politics/jd-vance-simone-biles.html",
+      "id": 100000009606033,
+      "asset_id": 100000009606033,
+      "source": "New York Times",
+      "published_date": "2024-08-01",
+      "updated": "2024-08-04 14:30:20",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Gymnastics;Olympic Games (2024);Olympic Games (2020);Presidential Election of 2024;Vice Presidents and Vice Presidency (US);United States Politics and Government;Mental Health and Disorders;Biles, Simone;Vance, J D;Republican Party",
+      "column": null,
+      "byline": "By Neil Vigdor",
+      "type": "Article",
+      "title": "JD Vance’s ‘Weakest Moment’ Remark About Simone Biles Draws New Scrutiny",
+      "abstract": "The gymnast won a second Olympic all-around title on Thursday in Paris, three years after stepping away from competing because of a mental health issue.",
+      "des_facet": [
+        "Gymnastics",
+        "Olympic Games (2024)",
+        "Olympic Games (2020)",
+        "Presidential Election of 2024",
+        "Vice Presidents and Vice Presidency (US)",
+        "United States Politics and Government",
+        "Mental Health and Disorders"
+      ],
+      "org_facet": [
+        "Republican Party"
+      ],
+      "per_facet": [
+        "Biles, Simone",
+        "Vance, J D"
+      ],
+      "geo_facet": [
+        
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Simone Biles received her second gold medal in the Olympic Games in Paris on Thursday. JD Vance criticized Biles for withdrawing from the previous Olympics because of a mental health issue.",
+          "copyright": "Gabriela Bhaskar for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2024/08/01/multimedia/01election-live-vance-biles-vwph/01election-live-vance-biles-vwph-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/08/01/multimedia/01election-live-vance-biles-vwph/01election-live-vance-biles-vwph-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/08/01/multimedia/01election-live-vance-biles-vwph/01election-live-vance-biles-vwph-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/5cdae863-2d36-534f-948d-a0639b098496",
+      "url": "https://www.nytimes.com/2024/08/06/us/politics/tim-walz-harris-vp-facts.html",
+      "id": 100000009592867,
+      "asset_id": 100000009592867,
+      "source": "New York Times",
+      "published_date": "2024-08-06",
+      "updated": "2024-08-09 08:04:31",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Presidential Election of 2024;Vice Presidents and Vice Presidency (US);Walz, Tim;Harris, Kamala D;Trump, Donald J;Vance, J D;Democratic Party;Minnesota",
+      "column": null,
+      "byline": "By Simon J. Levien and Maggie Astor",
+      "type": "Article",
+      "title": "19 Facts About Tim Walz, Harris’s Pick for Vice President",
+      "abstract": "Mr. Walz, the governor of Minnesota, worked as a high school social studies teacher and football coach, served in the Army National Guard and chooses Diet Mountain Dew over alcohol.",
+      "des_facet": [
+        "Presidential Election of 2024",
+        "Vice Presidents and Vice Presidency (US)"
+      ],
+      "org_facet": [
+        "Democratic Party"
+      ],
+      "per_facet": [
+        "Walz, Tim",
+        "Harris, Kamala D",
+        "Trump, Donald J",
+        "Vance, J D"
+      ],
+      "geo_facet": [
+        "Minnesota"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Some supporters of Gov. Tim Walz of Minnesota appreciate his Midwestern “dad vibes.”",
+          "copyright": "Caroline Yang for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2024/08/05/multimedia/00pol-facts-walz-top-clgq/00pol-facts-walz-top-clgq-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/08/05/multimedia/00pol-facts-walz-top-clgq/00pol-facts-walz-top-clgq-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/08/05/multimedia/00pol-facts-walz-top-clgq/00pol-facts-walz-top-clgq-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/c5fb2795-a67c-5aad-b7ce-bad8adb856bd",
+      "url": "https://www.nytimes.com/2024/08/09/world/americas/brazil-plane-crash.html",
+      "id": 100000009621734,
+      "asset_id": 100000009621734,
+      "source": "New York Times",
+      "published_date": "2024-08-09",
+      "updated": "2024-08-09 23:43:44",
+      "section": "World",
+      "subsection": "Americas",
+      "nytdsection": "world",
+      "adx_keywords": "Aviation Accidents, Safety and Disasters;Airlines and Airplanes;VoePass Linhas Aereas SA;Vinhedo (Brazil);Sao Paulo (Brazil);Brazil",
+      "column": null,
+      "byline": "By Jack Nicas, Paulo Motoryn and Niraj Chokshi",
+      "type": "Article",
+      "title": "Passenger Plane Crashes in Brazil, Killing 61 Onboard",
+      "abstract": "The Brazilian authorities said no one survived the crash, outside São Paulo on Friday afternoon. The airline, VoePass, said the cause was unknown.",
+      "des_facet": [
+        "Aviation Accidents, Safety and Disasters",
+        "Airlines and Airplanes"
+      ],
+      "org_facet": [
+        "VoePass Linhas Aereas SA"
+      ],
+      "per_facet": [
+        
+      ],
+      "geo_facet": [
+        "Vinhedo (Brazil)",
+        "Sao Paulo (Brazil)",
+        "Brazil"
+      ],
+      "media": [
+        
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/76565acf-b7cc-5cff-8a3c-33a2f1c62ddc",
+      "url": "https://www.nytimes.com/2024/08/06/us/politics/harris-tim-walz-vp-pick.html",
+      "id": 100000009615538,
+      "asset_id": 100000009615538,
+      "source": "New York Times",
+      "published_date": "2024-08-06",
+      "updated": "2024-08-11 10:39:23",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Vice Presidents and Vice Presidency (US);Presidential Election of 2024;United States Politics and Government;Harris, Kamala D;Walz, Tim;Shapiro, Josh (1973- );Kelly, Mark E (1964- );Democratic Party",
+      "column": null,
+      "byline": "By Shane Goldmacher, Katie Rogers, Reid J. Epstein and Katie Glueck",
+      "type": "Article",
+      "title": "How Kamala Harris Trusted Her Gut and Picked Tim Walz",
+      "abstract": "The ambitious Josh Shapiro asked about his role as vice president. The battle-tested Mark Kelly was already seen as a third option. And the happy-go-lucky Mr. Walz promised to do anything for the team.",
+      "des_facet": [
+        "Vice Presidents and Vice Presidency (US)",
+        "Presidential Election of 2024",
+        "United States Politics and Government"
+      ],
+      "org_facet": [
+        "Democratic Party"
+      ],
+      "per_facet": [
+        "Harris, Kamala D",
+        "Walz, Tim",
+        "Shapiro, Josh (1973- )",
+        "Kelly, Mark E (1964- )"
+      ],
+      "geo_facet": [
+        
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Vice President Kamala Harris and Gov. Tim Walz of Minnesota at their first rally together on Tuesday in Philadelphia. He had appeared to be a long shot for her running mate when her surprise elevation began just weeks ago but emerged as a top contender.",
+          "copyright": "Hiroko Masuike/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2024/08/06/multimedia/06pol-harris-ticktock-topart-btmq/06pol-harris-ticktock-topart-btmq-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/08/06/multimedia/06pol-harris-ticktock-topart-btmq/06pol-harris-ticktock-topart-btmq-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/08/06/multimedia/06pol-harris-ticktock-topart-btmq/06pol-harris-ticktock-topart-btmq-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/0f9d47e8-b05f-5eec-8b1a-ab57d1e1a2f5",
+      "url": "https://www.nytimes.com/2024/08/09/opinion/italy-tourists-bologna-mortadella.html",
+      "id": 100000009484285,
+      "asset_id": 100000009484285,
+      "source": "New York Times",
+      "published_date": "2024-08-09",
+      "updated": "2024-08-10 15:46:42",
+      "section": "Opinion",
+      "subsection": "",
+      "nytdsection": "opinion",
+      "adx_keywords": "Travel and Vacations;Pork;Shopping and Retail;Bologna (Italy)",
+      "column": null,
+      "byline": "By Ilaria Maria Sala",
+      "type": "Article",
+      "title": "My Beloved Italian City Has Turned Into Tourist Hell. Must We Really Travel Like This?",
+      "abstract": "Bologna has turned into a mortadella nightmare.",
+      "des_facet": [
+        "Travel and Vacations",
+        "Pork",
+        "Shopping and Retail"
+      ],
+      "org_facet": [
+        
+      ],
+      "per_facet": [
+        
+      ],
+      "geo_facet": [
+        "Bologna (Italy)"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Ismael Picardi",
+          "approved_for_syndication": 0,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2024/08/11/opinion/09sala-tk/09sala-tk-thumbStandard-v2.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/08/11/opinion/09sala-tk/09sala-tk-mediumThreeByTwo210-v2.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/08/11/opinion/09sala-tk/09sala-tk-mediumThreeByTwo440-v2.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/0d95c5cc-0985-538e-99f5-a66b05c46b69",
+      "url": "https://www.nytimes.com/2024/08/05/nyregion/robin-davis-child-abuse-trial.html",
+      "id": 100000009600062,
+      "asset_id": 100000009600062,
+      "source": "New York Times",
+      "published_date": "2024-08-05",
+      "updated": "2024-08-09 20:15:43",
+      "section": "New York",
+      "subsection": "",
+      "nytdsection": "new york",
+      "adx_keywords": "Child Abuse and Neglect;Sex Crimes;Suits and Litigation (Civil);Decisions and Verdicts;Philanthropy;Content Type: Personal Profile;Hedge Funds Care;Freeport (NY)",
+      "column": null,
+      "byline": "By Michael Wilson",
+      "type": "Article",
+      "title": "He Took His 68-Year-Old Secret to Court and Finally Confronted His Ghost",
+      "abstract": "Robin Davis spent a long career in finance and philanthropy haunted by what had happened to him as a boy. Could an unusual trial on Long Island help him find peace?",
+      "des_facet": [
+        "Child Abuse and Neglect",
+        "Sex Crimes",
+        "Suits and Litigation (Civil)",
+        "Decisions and Verdicts",
+        "Philanthropy",
+        "Content Type: Personal Profile"
+      ],
+      "org_facet": [
+        "Hedge Funds Care"
+      ],
+      "per_facet": [
+        
+      ],
+      "geo_facet": [
+        "Freeport (NY)"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "By the time Robin Davis testified at trial, nearly everyone involved in the events that led to his lawsuit was dead.",
+          "copyright": "Dave Sanders for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2024/08/11/nyregion/11aging-plaintiff1-cvlm/00aging-plaintiff1-cvlm-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/08/11/nyregion/11aging-plaintiff1-cvlm/00aging-plaintiff1-cvlm-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/08/11/nyregion/11aging-plaintiff1-cvlm/00aging-plaintiff1-cvlm-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/a80f0e03-7060-53f3-8df2-b11d9fc02e5d",
+      "url": "https://www.nytimes.com/2024/08/08/us/politics/trump-biden-press-conference.html",
+      "id": 100000009619530,
+      "asset_id": 100000009619530,
+      "source": "New York Times",
+      "published_date": "2024-08-08",
+      "updated": "2024-08-09 15:48:00",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Presidential Election of 2024;Trump, Donald J;Biden, Joseph R Jr;Harris, Kamala D;Pelosi, Nancy;Obama, Barack;Democratic Party",
+      "column": null,
+      "byline": "By Shawn McCreesh",
+      "type": "Article",
+      "title": "Donald Trump Can’t Get Over What Happened to President Biden",
+      "abstract": "At a news conference in Florida, Mr. Trump said “the presidency was taken away from Joe Biden” by a cabal of Democrats including Barack Obama, Nancy Pelosi and Kamala Harris.",
+      "des_facet": [
+        "Presidential Election of 2024"
+      ],
+      "org_facet": [
+        "Democratic Party"
+      ],
+      "per_facet": [
+        "Trump, Donald J",
+        "Biden, Joseph R Jr",
+        "Harris, Kamala D",
+        "Pelosi, Nancy",
+        "Obama, Barack"
+      ],
+      "geo_facet": [
+        
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "At his news conference on Thursday, former President Donald J. Trump said of President Biden: “He had a rough debate. But that doesn’t mean that you just take it away like that.”",
+          "copyright": "Doug Mills/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2024/08/08/multimedia/08election-live-trump-biden1-zgvm/08election-live-trump-biden1-zgvm-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/08/08/multimedia/08election-live-trump-biden1-zgvm/08election-live-trump-biden1-zgvm-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/08/08/multimedia/08election-live-trump-biden1-zgvm/08election-live-trump-biden1-zgvm-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/5b78c01b-4a86-5d8e-b3f7-8cda2de3632d",
+      "url": "https://www.nytimes.com/2024/08/09/style/modern-love-stripper-boyfriend.html",
+      "id": 100000009614124,
+      "asset_id": 100000009614124,
+      "source": "New York Times",
+      "published_date": "2024-08-09",
+      "updated": "2024-08-11 12:54:10",
+      "section": "Style",
+      "subsection": "",
+      "nytdsection": "style",
+      "adx_keywords": "Strip Clubs and Strippers;Dating and Relationships;Homosexuality and Bisexuality",
+      "column": null,
+      "byline": "By Edie Montana",
+      "type": "Article",
+      "title": "I’m a Stripper. My Boyfriend Saw Me Through the Eyes of a Customer.",
+      "abstract": "My job has meant independence, healing and freedom. Why couldn’t my partner see that?",
+      "des_facet": [
+        "Strip Clubs and Strippers",
+        "Dating and Relationships",
+        "Homosexuality and Bisexuality"
+      ],
+      "org_facet": [
+        
+      ],
+      "per_facet": [
+        
+      ],
+      "geo_facet": [
+        
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Brian Rea",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2024/08/11/fashion/11MODERN-MONTANA/11MODERN-MONTANA-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/08/11/fashion/11MODERN-MONTANA/11MODERN-MONTANA-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/08/11/fashion/11MODERN-MONTANA/11MODERN-MONTANA-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/db14c385-c037-5cf1-88b0-70b6dbff73de",
+      "url": "https://www.nytimes.com/2024/08/09/us/politics/trump-helicopter-landing.html",
+      "id": 100000009622542,
+      "asset_id": 100000009622542,
+      "source": "New York Times",
+      "published_date": "2024-08-09",
+      "updated": "2024-08-10 08:22:46",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Presidential Election of 2024;Helicopters;Trump, Donald J;Brown, Willie L Jr;California",
+      "column": null,
+      "byline": "By Maggie Haberman",
+      "type": "Article",
+      "title": "Trump Claims He Has Helicopter Trip Records and Threatens to Sue",
+      "abstract": "Former President Donald J. Trump insisted that he was in a dangerous helicopter landing, though the man he said he was with said it never happened.",
+      "des_facet": [
+        "Presidential Election of 2024",
+        "Helicopters"
+      ],
+      "org_facet": [
+        
+      ],
+      "per_facet": [
+        "Trump, Donald J",
+        "Brown, Willie L Jr"
+      ],
+      "geo_facet": [
+        "California"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Former President Donald J. Trump after landing in Billings, Mont., on Friday. During a news conference on Thursday, Mr. Trump told a story about an emergency helicopter landing.",
+          "copyright": "Doug Mills/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2024/08/09/multimedia/09election-live-trump-phone-call2-chvk/09election-live-trump-phone-call2-chvk-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/08/09/multimedia/09election-live-trump-phone-call2-chvk/09election-live-trump-phone-call2-chvk-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/08/09/multimedia/09election-live-trump-phone-call2-chvk/09election-live-trump-phone-call2-chvk-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/38ad15d0-6ff0-5675-b079-a161e4a66f28",
+      "url": "https://www.nytimes.com/2024/08/11/us/kid-rock-trump-maga.html",
+      "id": 100000009600953,
+      "asset_id": 100000009600953,
+      "source": "New York Times",
+      "published_date": "2024-08-11",
+      "updated": "2024-08-11 22:58:25",
+      "section": "U.S.",
+      "subsection": "",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Country Music;Conservatism (US Politics);Presidential Election of 2024;Festivals;Music;Kid Rock;Trump, Donald J;Anderson (SC);South Carolina",
+      "column": null,
+      "byline": "By Richard Fausset",
+      "type": "Article",
+      "title": "Kid Rock Threw the Party. MAGA Faithful Brought the Joy, Rage and Smirnoff Ice.",
+      "abstract": "A music festival headlined by the pro-Trump musician offered a snapshot of a maturing American subculture, with a mash-up of hedonism, rebellion and beer-guzzling pursuit of happiness.",
+      "des_facet": [
+        "Country Music",
+        "Conservatism (US Politics)",
+        "Presidential Election of 2024",
+        "Festivals",
+        "Music"
+      ],
+      "org_facet": [
+        
+      ],
+      "per_facet": [
+        "Kid Rock",
+        "Trump, Donald J"
+      ],
+      "geo_facet": [
+        "Anderson (SC)",
+        "South Carolina"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A mechanical bull at Kid Rock’s Rock the Country festival in Anderson, S.C., in July.",
+          "copyright": "Nicole Craine for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2024/08/08/multimedia/00nat-maga-festival-NEW-01-wfkb/00nat-maga-festival-NEW-01-wfkb-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/08/08/multimedia/00nat-maga-festival-NEW-01-wfkb/00nat-maga-festival-NEW-01-wfkb-mediumThreeByTwo210-v2.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/08/08/multimedia/00nat-maga-festival-NEW-01-wfkb/00nat-maga-festival-NEW-01-wfkb-mediumThreeByTwo440-v2.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/75a7eac1-f91a-59fe-9b81-d907272bf216",
+      "url": "https://www.nytimes.com/2024/08/09/us/glen-canyon-arch-collapse.html",
+      "id": 100000009622767,
+      "asset_id": 100000009622767,
+      "source": "New York Times",
+      "published_date": "2024-08-09",
+      "updated": "2024-08-10 18:15:19",
+      "section": "U.S.",
+      "subsection": "",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Parks and Other Recreation Areas;National Parks, Monuments and Seashores;Water;National Park Service;Arizona;Colorado River;Lake Powell (Utah-Ariz);Utah",
+      "column": null,
+      "byline": "By Orlando Mayorquín",
+      "type": "Article",
+      "title": "Famed Double Arch Collapses in Glen Canyon National Recreation Area",
+      "abstract": "Changing water levels and erosion are believed to have contributed to the collapse of the geologic feature, which was formed from 190 million-year-old Navajo sandstone, the National Park Service said.",
+      "des_facet": [
+        "Parks and Other Recreation Areas",
+        "National Parks, Monuments and Seashores",
+        "Water"
+      ],
+      "org_facet": [
+        "National Park Service"
+      ],
+      "per_facet": [
+        
+      ],
+      "geo_facet": [
+        "Arizona",
+        "Colorado River",
+        "Lake Powell (Utah-Ariz)",
+        "Utah"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A section of Glen Canyon National Recreation Area in Utah on Friday, the day after a double arch that had formed from ancient Navajo sandstone collapsed. The feature had been in the center of the area shown.",
+          "copyright": "National Park Service",
+          "approved_for_syndication": 0,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2024/08/09/multimedia/09xp-arch/09xp-arch-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/08/09/multimedia/09xp-arch/09xp-arch-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/08/09/multimedia/09xp-arch/09xp-arch-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/ca5c970a-cf40-5b20-aa1f-9f8b5efb28cd",
+      "url": "https://www.nytimes.com/2024/08/09/us/politics/tim-walz-holocaust-class-rwanda-genocide.html",
+      "id": 100000009621204,
+      "asset_id": 100000009621204,
+      "source": "New York Times",
+      "published_date": "2024-08-09",
+      "updated": "2024-08-12 12:14:51",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "War Crimes, Genocide and Crimes Against Humanity;Presidential Election of 2024;United States Politics and Government;Vice Presidents and Vice Presidency (US);Colleges and Universities;Education (K-12);Holocaust and the Nazi Era;Governors (US);Maps;Geography;World War II (1939-45);Walz, Tim;Harris, Kamala D;Freedman, Samuel G;Environmental Systems Research Institute (Esri);Democratic Party;Nebraska;Rwanda;Minnesota;Mankato (Minn)",
+      "column": null,
+      "byline": "By Neil Vigdor",
+      "type": "Article",
+      "title": "Tim Walz’s Class Project on the Holocaust Draws New Attention Online",
+      "abstract": "Mr. Walz, now the Democrats’ vice-presidential nominee, asked his high school students in 1993 which country was most at risk for genocide. Their prediction came to pass: Rwanda.",
+      "des_facet": [
+        "War Crimes, Genocide and Crimes Against Humanity",
+        "Presidential Election of 2024",
+        "United States Politics and Government",
+        "Vice Presidents and Vice Presidency (US)",
+        "Colleges and Universities",
+        "Education (K-12)",
+        "Holocaust and the Nazi Era",
+        "Governors (US)",
+        "Maps",
+        "Geography",
+        "World War II (1939-45)"
+      ],
+      "org_facet": [
+        "Environmental Systems Research Institute (Esri)",
+        "Democratic Party"
+      ],
+      "per_facet": [
+        "Walz, Tim",
+        "Harris, Kamala D",
+        "Freedman, Samuel G"
+      ],
+      "geo_facet": [
+        "Nebraska",
+        "Rwanda",
+        "Minnesota",
+        "Mankato (Minn)"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Tim Walz at Mankato West High School in Mankato, Minn., in 2007, where he had been a teacher before becoming a congressman. He had been a teacher in Nebraska in the ’90s.",
+          "copyright": "T.C. Worley for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2024/08/09/multimedia/09election-live-walz-lessonplan-qtmh/09election-live-walz-lessonplan-qtmh-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/08/09/multimedia/09election-live-walz-lessonplan-qtmh/09election-live-walz-lessonplan-qtmh-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/08/09/multimedia/09election-live-walz-lessonplan-qtmh/09election-live-walz-lessonplan-qtmh-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/c387b1f2-2ccd-51c1-9c10-65c73579c9ca",
+      "url": "https://www.nytimes.com/2024/08/10/us/politics/harris-trump-battleground-polls.html",
+      "id": 100000009621149,
+      "asset_id": 100000009621149,
+      "source": "New York Times",
+      "published_date": "2024-08-10",
+      "updated": "2024-08-11 12:05:57",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Presidential Election of 2024;United States Politics and Government;Vice Presidents and Vice Presidency (US);Polls and Public Opinion;Voting and Voters;Harris, Kamala D;Trump, Donald J;Biden, Joseph R Jr;Vance, J D;Walz, Tim;Democratic Party;Republican Party;New York Times/Siena College Poll;Michigan;Pennsylvania;Wisconsin",
+      "column": null,
+      "byline": "By Lisa Lerer and Ruth Igielnik",
+      "type": "Article",
+      "title": "Harris Leads Trump in Three Key States, Times/Siena Polls Find",
+      "abstract": "New surveys of Michigan, Wisconsin and Pennsylvania taken this week offer the latest indication of a dramatic reversal in standing for the Democratic Party since President Biden abandoned his re-election bid.",
+      "des_facet": [
+        "Presidential Election of 2024",
+        "United States Politics and Government",
+        "Vice Presidents and Vice Presidency (US)",
+        "Polls and Public Opinion",
+        "Voting and Voters"
+      ],
+      "org_facet": [
+        "Democratic Party",
+        "Republican Party",
+        "New York Times/Siena College Poll"
+      ],
+      "per_facet": [
+        "Harris, Kamala D",
+        "Trump, Donald J",
+        "Biden, Joseph R Jr",
+        "Vance, J D",
+        "Walz, Tim"
+      ],
+      "geo_facet": [
+        "Michigan",
+        "Pennsylvania",
+        "Wisconsin"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2024/08/09/multimedia/2024-08-10-statepolls-mi-wi-pa-index/2024-08-10-statepolls-mi-wi-pa-index-thumbStandard-v7.png",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/08/09/multimedia/2024-08-10-statepolls-mi-wi-pa-index/2024-08-10-statepolls-mi-wi-pa-index-mediumThreeByTwo210-v7.png",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/08/09/multimedia/2024-08-10-statepolls-mi-wi-pa-index/2024-08-10-statepolls-mi-wi-pa-index-mediumThreeByTwo440-v7.png",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/dc57afa1-d254-52ef-a8e4-ecf57d38c906",
+      "url": "https://www.nytimes.com/2024/08/06/well/family/orgasm-gap-women-age.html",
+      "id": 100000009601404,
+      "asset_id": 100000009601404,
+      "source": "New York Times",
+      "published_date": "2024-08-06",
+      "updated": "2024-08-08 09:30:23",
+      "section": "Well",
+      "subsection": "Family",
+      "nytdsection": "well",
+      "adx_keywords": "Sex;Women and Girls;Sex Education;Journal of Sexual Medicine",
+      "column": null,
+      "byline": "By Catherine Pearson",
+      "type": "Article",
+      "title": "The ‘Orgasm Gap’ Isn’t Going Away for Straight Women",
+      "abstract": "A new study suggests they still have fewer orgasms during sex than men do, even with age and experience.",
+      "des_facet": [
+        "Sex",
+        "Women and Girls",
+        "Sex Education"
+      ],
+      "org_facet": [
+        "Journal of Sexual Medicine"
+      ],
+      "per_facet": [
+        
+      ],
+      "geo_facet": [
+        
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Sara Andreasson",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2024/08/13/well/05WELL-ORGASM-GAP/05WELL-ORGASM-GAP-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/08/13/well/05WELL-ORGASM-GAP/05WELL-ORGASM-GAP-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/08/13/well/05WELL-ORGASM-GAP/05WELL-ORGASM-GAP-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/764e9fad-2535-5d4e-bf21-756ac8bb119b",
+      "url": "https://www.nytimes.com/2024/08/11/us/politics/harris-black-men.html",
+      "id": 100000009617310,
+      "asset_id": 100000009617310,
+      "source": "New York Times",
+      "published_date": "2024-08-11",
+      "updated": "2024-08-12 08:14:16",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Black People;Presidential Election of 2024;Race and Ethnicity;United States Politics and Government;Men and Boys;Discrimination;Women and Girls;Harris, Kamala D;Trump, Donald J",
+      "column": null,
+      "byline": "By Zolan Kanno-Youngs and Erica L. Green",
+      "type": "Article",
+      "title": "Black Men Rally for Kamala Harris, and Confront an Elephant in the Room",
+      "abstract": "“I’m standing behind a Black woman to be president of the United States, and it doesn’t make me any less of a Black man,” said the Illinois attorney general. “I’m asking all of you all to do the same.”",
+      "des_facet": [
+        "Black People",
+        "Presidential Election of 2024",
+        "Race and Ethnicity",
+        "United States Politics and Government",
+        "Men and Boys",
+        "Discrimination",
+        "Women and Girls"
+      ],
+      "org_facet": [
+        
+      ],
+      "per_facet": [
+        "Harris, Kamala D",
+        "Trump, Donald J"
+      ],
+      "geo_facet": [
+        
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Vice President Kamala Harris at a campaign event in Romulus, Mich., on Wednesday.",
+          "copyright": "Erin Schaff/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2024/08/11/multimedia/11dc-blackmen-vmhq/11dc-blackmen-vmhq-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/08/11/multimedia/11dc-blackmen-vmhq/11dc-blackmen-vmhq-mediumThreeByTwo210-v3.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/08/11/multimedia/11dc-blackmen-vmhq/11dc-blackmen-vmhq-mediumThreeByTwo440-v3.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/89877847-cb99-5f23-84f5-451294582eb9",
+      "url": "https://www.nytimes.com/2024/08/10/upshot/polls-harris-swing-states.html",
+      "id": 100000009622672,
+      "asset_id": 100000009622672,
+      "source": "New York Times",
+      "published_date": "2024-08-10",
+      "updated": "2024-08-10 19:02:48",
+      "section": "The Upshot",
+      "subsection": "",
+      "nytdsection": "the upshot",
+      "adx_keywords": "Presidential Election of 2024;Polls and Public Opinion;United States Politics and Government;Harris, Kamala D;Trump, Donald J;New York Times/Siena College Poll",
+      "column": null,
+      "byline": "By Nate Cohn",
+      "type": "Article",
+      "title": "New Battleground Polls Show Harris Has Fundamentally Changed the Race",
+      "abstract": "On question after question, at least for now, most voters don’t seem to have major reservations about her.",
+      "des_facet": [
+        "Presidential Election of 2024",
+        "Polls and Public Opinion",
+        "United States Politics and Government"
+      ],
+      "org_facet": [
+        "New York Times/Siena College Poll"
+      ],
+      "per_facet": [
+        "Harris, Kamala D",
+        "Trump, Donald J"
+      ],
+      "geo_facet": [
+        
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Kamala Harris leads by four points each in Michigan, Wisconsin and Pennsylvania.",
+          "copyright": "Julia Nikhinson/Associated Press",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2024/08/09/multimedia/00up-kamala-poll1-wfjp/00up-kamala-poll1-wfjp-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/08/09/multimedia/00up-kamala-poll1-wfjp/00up-kamala-poll1-wfjp-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/08/09/multimedia/00up-kamala-poll1-wfjp/00up-kamala-poll1-wfjp-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/dad11a5f-5910-5828-87d0-dcc184ec4aa4",
+      "url": "https://www.nytimes.com/2024/08/08/arts/television/snl-2024-election-harris-trump.html",
+      "id": 100000009618760,
+      "asset_id": 100000009618760,
+      "source": "New York Times",
+      "published_date": "2024-08-08",
+      "updated": "2024-08-10 13:42:40",
+      "section": "Arts",
+      "subsection": "Television",
+      "nytdsection": "arts",
+      "adx_keywords": "Comedy and Humor;Television;Presidential Election of 2024;United States Politics and Government;Rudolph, Maya;Harris, Kamala D;Trump, Donald J",
+      "column": null,
+      "byline": "By Dave Itzkoff",
+      "type": "Article",
+      "title": "‘Saturday Night Live’: Meet the Candidates",
+      "abstract": "Steve Martin is out, and the roles of Kamala Harris and Donald Trump seem settled. But the internet has been busy dream-casting the rest of the “S.N.L.” election ticket.",
+      "des_facet": [
+        "Comedy and Humor",
+        "Television",
+        "Presidential Election of 2024",
+        "United States Politics and Government"
+      ],
+      "org_facet": [
+        
+      ],
+      "per_facet": [
+        "Rudolph, Maya",
+        "Harris, Kamala D",
+        "Trump, Donald J"
+      ],
+      "geo_facet": [
+        
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Maya Rudolph, who has played Kamala Harris on “Saturday Night Live” before (with Jim Carrey), seems certain to return this election season. But other candidate slots are wide open.",
+          "copyright": "NBC",
+          "approved_for_syndication": 0,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2024/08/08/multimedia/08snlcandidates-kchp/08snlcandidates-kchp-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/08/08/multimedia/08snlcandidates-kchp/08snlcandidates-kchp-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/08/08/multimedia/08snlcandidates-kchp/08snlcandidates-kchp-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/ff4e45b2-5845-5f6d-957f-78879e924c53",
+      "url": "https://www.nytimes.com/2024/08/04/us/politics/kamala-harris-vp-democrats-divided.html",
+      "id": 100000009610598,
+      "asset_id": 100000009610598,
+      "source": "New York Times",
+      "published_date": "2024-08-04",
+      "updated": "2024-08-07 08:26:42",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Presidential Election of 2024;United States Politics and Government;Vice Presidents and Vice Presidency (US);Israel-Gaza War (2023- );Harris, Kamala D;Beshear, Andrew G (1977- );Buttigieg, Pete (1982- );Kelly, Mark E (1964- );Shapiro, Josh (1973- );Walz, Tim;Democratic Party",
+      "column": null,
+      "byline": "By Reid J. Epstein, Theodore Schleifer and Nick Corasaniti",
+      "type": "Article",
+      "title": "Harris Faces Party Divisions as She Chooses a Running Mate",
+      "abstract": "The vice president conducted interviews with potential candidates over the weekend and has fielded concerns from donors and activists over the choice.",
+      "des_facet": [
+        "Presidential Election of 2024",
+        "United States Politics and Government",
+        "Vice Presidents and Vice Presidency (US)",
+        "Israel-Gaza War (2023- )"
+      ],
+      "org_facet": [
+        "Democratic Party"
+      ],
+      "per_facet": [
+        "Harris, Kamala D",
+        "Beshear, Andrew G (1977- )",
+        "Buttigieg, Pete (1982- )",
+        "Kelly, Mark E (1964- )",
+        "Shapiro, Josh (1973- )",
+        "Walz, Tim"
+      ],
+      "geo_facet": [
+        
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Vice President Kamala Harris spent the weekend interviewing contenders to be her vice-presidential nominee.",
+          "copyright": "Erin Schaff/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2024/09/04/world/04election-live-harris-vp-pick-sub-khftw/04election-live-harris-vp-pick-sub-khftw-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/09/04/world/04election-live-harris-vp-pick-sub-khftw/04election-live-harris-vp-pick-sub-khftw-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/09/04/world/04election-live-harris-vp-pick-sub-khftw/04election-live-harris-vp-pick-sub-khftw-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/af744d67-2bfb-5e3d-bd8c-939392de7d82",
+      "url": "https://www.nytimes.com/2024/08/08/us/politics/trump-press-conference-mar-a-lago.html",
+      "id": 100000009619859,
+      "asset_id": 100000009619859,
+      "source": "New York Times",
+      "published_date": "2024-08-08",
+      "updated": "2024-08-11 10:38:42",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Presidential Election of 2024;United States Politics and Government;News and News Media;Trump, Donald J;Harris, Kamala D;Mar-a-Lago (Palm Beach, Fla);Republican Party",
+      "column": null,
+      "byline": "By Maggie Haberman, Shane Goldmacher and Jonathan Swan",
+      "type": "Article",
+      "title": "Trump Tries to Wrestle Back Attention at Mar-a-Lago News Conference",
+      "abstract": "In an hourlong exchange with reporters, the former president criticized Vice President Kamala Harris for not doing the same, insulted her intelligence and boasted about the size of his rallies.",
+      "des_facet": [
+        "Presidential Election of 2024",
+        "United States Politics and Government",
+        "News and News Media"
+      ],
+      "org_facet": [
+        "Mar-a-Lago (Palm Beach, Fla)",
+        "Republican Party"
+      ],
+      "per_facet": [
+        "Trump, Donald J",
+        "Harris, Kamala D"
+      ],
+      "geo_facet": [
+        
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Former President Donald J. Trump held a hastily scheduled news conference on Thursday at his Mar-a-Lago club in Florida.",
+          "copyright": "Doug Mills/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2024/08/08/multimedia/08pol-trump-news-conference-gkpf/08pol-trump-news-conference-gkpf-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/08/08/multimedia/08pol-trump-news-conference-gkpf/08pol-trump-news-conference-gkpf-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/08/08/multimedia/08pol-trump-news-conference-gkpf/08pol-trump-news-conference-gkpf-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    }
+  ]
+}
